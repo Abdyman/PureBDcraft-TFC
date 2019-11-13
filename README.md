@@ -1,4 +1,4 @@
-# PureBDcraft texture patch for Terrestria
+# PureBDcraft texture patch for Terrafirmacraft
 [BDcraft.net texture patch thread]().
 
 [Mod page](https://www.curseforge.com/minecraft/mc-mods/tfcraft).
