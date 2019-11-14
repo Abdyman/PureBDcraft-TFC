@@ -1,5 +1,5 @@
 # PureBDcraft texture patch for TerraFirmaCraft
-[BDcraft.net texture patch thread]().
+[BDcraft.net texture patch thread](https://bdcraft.net/community/work-progress-f8/terrafirmacraft-t1255.html).
 
 [Mod page](https://www.curseforge.com/minecraft/mc-mods/tfcraft).
 
